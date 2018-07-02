@@ -9,7 +9,7 @@ This is a example of a backed server.
 Click the "Deploy to Heroku" button.
 
 
-> You will need to place your Secret Key when doing the deployment. **Make sure** this secret key matched the public key that you are using in the mobile SDK
+> You will need to place your Secret Key when doing the deployment. **Make sure** this secret key matches the public key that you are using in the mobile SDK
 
 ## Endpoints
 ### /charge
